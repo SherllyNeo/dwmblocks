@@ -20,11 +20,11 @@ static const Block blocks[] = {
 	/*{" dop: ",	"sb-doppler",	0,	13},*/
 	/*{" network_traf:",	"sb-nettraf",	1,	16},*/
 	/* {"",	"sb-volume",	0,	10},*/
-	{"",	"sb-moonphase",	60,	1},
+	{"",	"sb-rustr",	60,	1},
 	{"",	"check_wifi",	60,	1},
 	{"",	"sb-hostname",	60,	1},
 	{"",	"sb-battery",	5,	3},
-	{" weather: ",	"sb-forecast",	18000,	5},
+	{"",	"sb-forecast",	18000,	5},
 	{"",	"sb-clock",	60,	1},
 	/*{" internet: ",	"sb-internet",	5,	4},*/
 /*	{"",	"sb-help-icon",	0,	15}, */
