@@ -20,6 +20,7 @@ static const Block blocks[] = {
 	/*{" dop: ",	"sb-doppler",	0,	13},*/
 	/*{" network_traf:",	"sb-nettraf",	1,	16},*/
 	/* {"",	"sb-volume",	0,	10},*/
+	{"",	"birth_days",	10,	1},
 	{"",	"sb-taskr",	10,	1},
 	{"",	"check_wifi",	5,	1},
 	{"",	"sb-hostname",	18000,	1},
